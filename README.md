@@ -6,8 +6,8 @@ i3wm dotfiles
 
 # Dependencies 
 
-..* Polybar
-..* Rofi
-..* Greenclip
-
+  * Polybar
+  * Rofi
+  * Greenclip
+ 
 
