@@ -9,5 +9,8 @@ i3wm dotfiles
   * Polybar
   * Rofi
   * Greenclip
- 
+
+## Wallpaper is in the Assets folder.
+
+![Skull](https://github.com/CyanCipher/Dotfiles/blob/main/Assets/wallpaper.jpg?raw=true)
 
